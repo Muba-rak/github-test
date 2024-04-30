@@ -1,0 +1,16 @@
+.success {
+  border: 2px solid green;
+  font-size: 1.2em;
+}
+.text-container {
+  width: 250px;
+  height: 250px;
+  border-radius: 10px;
+  background-color: beige;
+  margin: 10px auto;
+}
+
+.error {
+  border: 2px dashed red;
+  font-size: 1.2em;
+}
